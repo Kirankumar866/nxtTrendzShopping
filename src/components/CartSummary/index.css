@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.cartsummary {
+  align-self: flex-end;
+}
+.checkout-button {
+  cursor: pointer;
+}
